@@ -13,7 +13,8 @@ $ git log --author Laura
     Update apt.mdx
     
 ## Laura Septembris
-$ git log --after "2021-09-01" --before "2021-10-01"
+Nav veikusi commit
+ - $ git log --after "2021-09-01" --before "2021-10-01"
 - 618e9cf8e N Thu Sep 30.. James Bardin     test for unexpected data reads
 - 016463ea9 N Tue Sep 28.. James Bardin     don't check all ancestors for data depends_on
 - fe671206c N Wed Sep 29.. James Bardin     Add detail about the protocol deprecation
