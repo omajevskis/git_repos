@@ -7,9 +7,9 @@ Izmaiņas var apskatīies ar GitHub Desktop sadaļa History un no komandrindas >
 ## Laura
 
 $ git log --author Laura
-78f90a64b E Fri Apr 29 11:58:1.. Laura Pacilio    Merge pull request #30956 from tigerblue77/patch-1
-e68ad5ec4 N Wed Apr 20 18:57:5.. Laura Pacilio    more edits origin/update-TF-WORKSPACE-variable
-912e6ff6d N Wed Apr 20 18:54:5.. Laura Pacilio    Apply suggestions from PR review
+- 78f90a64b E Fri Apr 29 11:58:1.. Laura Pacilio    Merge pull request #30956 from tigerblue77/patch-1
+- e68ad5ec4 N Wed Apr 20 18:57:5.. Laura Pacilio    more edits origin/update-TF-WORKSPACE-variable
+- 912e6ff6d N Wed Apr 20 18:54:5.. Laura Pacilio    Apply suggestions from PR review
 a0ebb94fb E Wed Apr 20 18:40:2.. Laura Pacilio    Merge branch 'main' into update-TF-WORKSPACE-variable
 d3e660d91 E Wed Apr 20 12:25:4.. Laura Pacilio    Merge pull request #30772 from hashicorp/laura-update-pre-post-conditions
 b1d933936 N Wed Apr 20 12:19:2.. Laura Pacilio    Final formatting nits origin/laura-update-pre-post-conditions
